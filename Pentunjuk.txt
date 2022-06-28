@@ -1,0 +1,5 @@
+http://localhost/Pendaftaran%20Penduduk/index.php
+
+(Admin)
+Username : Olan Maulana
+Password : admin
